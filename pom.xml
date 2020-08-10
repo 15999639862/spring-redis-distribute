@@ -3,13 +3,13 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>spring-cloud</groupId>
+    <groupId>com.cwh</groupId>
 
-    <artifactId>sc-redis</artifactId>
+    <artifactId>spring-redis-distribute</artifactId>
 
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>sc-redis</name>
+    <name>spring-redis-distribute</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
